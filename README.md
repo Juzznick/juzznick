@@ -1,4 +1,4 @@
-![](https://github-readme-streak-stats.herokuapp.com/?user=juzznick&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 ## 🌐 Socials:
