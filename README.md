@@ -1,3 +1,4 @@
+[![GitHub Streak](https://streak-stats.demolab.com?user=juzznick&theme=dark&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juzznick) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juzznick) <br/>
